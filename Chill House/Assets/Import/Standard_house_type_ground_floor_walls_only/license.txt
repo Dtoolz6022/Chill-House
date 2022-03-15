@@ -1,0 +1,11 @@
+Model Information:
+* title:	Standard house type ground floor walls only
+* source:	https://sketchfab.com/3d-models/standard-house-type-ground-floor-walls-only-481d7c8f15434c27a06aed586b8951f6
+* author:	andrew.baker-kean (https://sketchfab.com/andrew.baker-kean)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Standard house type ground floor walls only" (https://sketchfab.com/3d-models/standard-house-type-ground-floor-walls-only-481d7c8f15434c27a06aed586b8951f6) by andrew.baker-kean (https://sketchfab.com/andrew.baker-kean) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
